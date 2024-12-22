@@ -42,3 +42,12 @@ The primary objective of this project is to provide a comprehensive operational 
 15. Target Achievement Rate: Comparison of actual performance against predefined 2024 targets.
 16. Trip Efficiency: Average time or distance per trip compared to industry benchmarks. 
 
+# Key - Insights
+# Top-3 and Bottom-3 Cities by Total Trips
+
+![top bottom trips](https://github.com/user-attachments/assets/a1594014-4397-4af4-954c-fe228b0e46ab)
+
+Jaipur Lucknow and Surat are Top 3 Cities.
+Visakhapatnam, Coimbaotre and Mysore are Bottom 3 Cities.
+
+
