@@ -125,3 +125,6 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Cities like Indore, Coimbatore and Chandigarh has average Passenger and Driver rating.
 
+# Trips Target , New Passengers Target and Passenger Rating Target Analysis by Cities.
+
+![top bottom trips](https://github.com/user-attachments/assets/42f966eb-82a6-4867-ae21-fc6eb6b55dc6)
