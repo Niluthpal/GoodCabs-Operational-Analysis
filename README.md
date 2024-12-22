@@ -77,5 +77,12 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● From January to June, total revenue has experienced fluctuations, ultimately declining from ₹18.5 million in January to ₹15.4 million by the end of June, representing a decrease of 16.78%.
 
+# Revenue contribution by Cities. 
+
+![top bottom trips](https://github.com/user-attachments/assets/5b887ec7-a1f2-4a67-9272-03a90c71ec0e)
+
+● Jaipur, Kochi and Chandigarh are the Top 3 states in terms of revenue contribution and Mysore, Vadodara and Coimbatore are Bottom 3 cities.
+
+● Revenue by Repeat passengers has seen a constant growth till May but declined in June whereas revenue by New passengers has seen declined in revenue from February.
 
 
