@@ -43,7 +43,7 @@ The primary objective of this project is to provide a comprehensive operational 
 16. Trip Efficiency: Average time or distance per trip compared to industry benchmarks. 
 
 # Key - Insights
-# Top-3 and Bottom-3 Cities by Total Trips
+# Top-3 and Bottom-3 Cities by Total Trips.
 
 ![top bottom trips](https://github.com/user-attachments/assets/a1594014-4397-4af4-954c-fe228b0e46ab)
 
@@ -51,7 +51,7 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Visakhapatnam, Coimbaotre and Mysore are Bottom 3 Cities.
 
-# New vs Repeat Trips by City
+# New vs Repeat Trips by City.
 
 ![new vs repeat trips](https://github.com/user-attachments/assets/ad2aaa32-ad4c-4966-828c-4090e57bdeb6)
 
@@ -59,7 +59,7 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Cities like Jaipur, Kochi, Mysore exhibit a higher proprtion of new passengers compared to repeat ones, indicating that these are tourism-focused cities with a strong reliance on toursits.
 
-# Repeat Trips % by Trips count and City
+# Repeat Trips % by Trips count and City.
 
 ![top bottom trips](https://github.com/user-attachments/assets/74986ab0-8615-4aca-a06d-632aee245376)
 
@@ -69,7 +69,13 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Business focused cities like Surat, Vadodara, Coimbatore, Lucknow has more distributed trips frequency from 2-trips to 7-trips count, indicating a strong reliance on daily commuters.
 
+# Revenue and Monthly Revenue Growth Rate.
 
+![top bottom trips](https://github.com/user-attachments/assets/c1089e49-bca4-42c1-8add-14b856e710c7)
+
+● February has highest total revenue and June has lowest total revenue.
+
+● From January to June, total revenue has experienced fluctuations, ultimately declining from ₹18.5 million in January to ₹15.4 million by the end of June, representing a decrease of 16.78%.
 
 
 
