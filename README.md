@@ -59,6 +59,17 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Cities like Jaipur, Kochi, Mysore exhibit a higher proprtion of new passengers compared to repeat ones, indicating that these are tourism-focused cities with a strong reliance on toursits.
 
+# Repeat Trips % by Trips count and City
+
+![top bottom trips](https://github.com/user-attachments/assets/74986ab0-8615-4aca-a06d-632aee245376)
+
+● Higher trips count like 9-trips and 10- trips have very less repeat trips %.
+
+● Tourism focused cities like Jaipur, Mysore, Kochi has higher repeat trips % in lower trips count like 2 to 3-trips.
+
+● Business focused cities like Surat, Vadodara, Coimbatore, Lucknow has more distributed trips frequency from 2-trips to 7-trips count, indicating a strong reliance on daily commuters.
+
+
 
 
 
