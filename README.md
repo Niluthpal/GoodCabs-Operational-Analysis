@@ -34,11 +34,11 @@ The primary objective of this project is to provide a comprehensive operational 
 7. Revenue Growth Rate (Monthly): Percentage growth in revenue compared to the previous month.
 8. Average Distance Covered: Average distance covered per trip.
 9. Average Fare per Kilometer: Revenue generated per kilometer on average.
-10.Average Fare per Trip: Revenue generated per trip on average.
-11.Total Trips: Total number of trips completed during the analysis period.
-12.Passenger Ratings: Average passenger satisfaction rating.
-13.Driver Ratings: Average driver performance rating.
-14.Trip Distribution by City: Proportion of trips across the ten tier-2 cities.
-15.Target Achievement Rate: Comparison of actual performance against predefined 2024 targets.
-16.Trip Efficiency: Average time or distance per trip compared to industry benchmarks. 
+10. Average Fare per Trip: Revenue generated per trip on average.
+11. Total Trips: Total number of trips completed during the analysis period.
+12. Passenger Ratings: Average passenger satisfaction rating.
+13. Driver Ratings: Average driver performance rating.
+14. Trip Distribution by City: Proportion of trips across the ten tier-2 cities.
+15. Target Achievement Rate: Comparison of actual performance against predefined 2024 targets.
+16. Trip Efficiency: Average time or distance per trip compared to industry benchmarks. 
 
