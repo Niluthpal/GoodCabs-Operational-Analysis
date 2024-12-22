@@ -114,3 +114,14 @@ The primary objective of this project is to provide a comprehensive operational 
 ● Chandigarh, Jaipur and Mysore are the Bottom 3 cities with Highest Repeat Passenger Rate. 
 
 ● Jaipur, Kochi and Chandigarh has the highest New Passengers whereas Surat, Vadodara and Coimbatore has lowest New Passengers. 
+
+# Passenger Rating and Driver Rating Analysis by Cities.
+
+![top bottom trips](https://github.com/user-attachments/assets/5a686c61-a3ae-4fa1-a11a-d44cfdfe6fe9)
+
+● Tourism heavy cities like Jaipur, Kochi, Mysore, Visakhapatnam has highest Passenger and Driver rating.
+
+● Business hubs like Surat, Lucknow and Vadodara has lowest Passenger and Driver rating.
+
+● Cities like Indore, Coimbatore and Chandigarh has average Passenger and Driver rating.
+
