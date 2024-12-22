@@ -128,3 +128,10 @@ The primary objective of this project is to provide a comprehensive operational 
 # Trips Target , New Passengers Target and Passenger Rating Target Analysis by Cities.
 
 ![top bottom trips](https://github.com/user-attachments/assets/42f966eb-82a6-4867-ae21-fc6eb6b55dc6)
+
+● Overall Target trips has missed by 0.72 % , New Passengers Target missed by 4.38% and Passenger rating target missed by 3.94%.
+
+● Viskhapatnam and Chandigarh are only two cities which have missed all of it's three targets.
+
+● Jaipur and Mysore are the only cities to consistently achieve their trip targets from January 2024 to June 2024, while Lucknow and Vadodara failed to meet their trip targets throughout this period.
+
