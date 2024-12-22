@@ -51,4 +51,14 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Visakhapatnam, Coimbaotre and Mysore are Bottom 3 Cities.
 
+# New vs Repeat Trips by City
+
+![new vs repeat trips](https://github.com/user-attachments/assets/ad2aaa32-ad4c-4966-828c-4090e57bdeb6)
+
+● Cities like Surat, Vadodara, and Lucknow exhibit a higher proportion of repeat passengers compared to new ones, indicating that these are business-focused hubs with a strong reliance on daily commuters.
+
+● Cities like Jaipur, Kochi, Mysore exhibit a higher proprtion of new passengers compared to repeat ones, indicating that these are tourism-focused cities with a strong reliance on toursits.
+
+
+
 
