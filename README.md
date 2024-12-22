@@ -47,7 +47,7 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ![top bottom trips](https://github.com/user-attachments/assets/a1594014-4397-4af4-954c-fe228b0e46ab)
 
-Jaipur Lucknow and Surat are Top 3 Cities.
-Visakhapatnam, Coimbaotre and Mysore are Bottom 3 Cities.
+● Jaipur Lucknow and Surat are Top 3 Cities.
+● Visakhapatnam, Coimbaotre and Mysore are Bottom 3 Cities.
 
 
