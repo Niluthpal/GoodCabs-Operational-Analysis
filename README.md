@@ -61,7 +61,7 @@ The primary objective of this project is to provide a comprehensive operational 
 
 # Repeat Trips % by Trips count and City.
 
-![top bottom trips](https://github.com/user-attachments/assets/74986ab0-8615-4aca-a06d-632aee245376)
+![top bottom trips](https://github.com/user-attachments/assets/c512c68c-0460-439d-b0c9-b2714a863863)
 
 ● Higher trips count like 9-trips and 10- trips have very less repeat trips %.
 
