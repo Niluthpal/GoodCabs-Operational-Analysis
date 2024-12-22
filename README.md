@@ -69,6 +69,26 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Business focused cities like Surat, Vadodara, Coimbatore, Lucknow has more distributed trips frequency from 2-trips to 7-trips count, indicating a strong reliance on daily commuters.
 
+# Seasonal Pattern analysis by Cities.
+
+![top bottom trips](https://github.com/user-attachments/assets/5b0e9ad4-bd4a-44a8-bae3-f48b3e56a086)
+
+● Northern Cities peak in February due to cool, pleasant weather.
+
+● Southern and Western Cities peak from March to May due to vacations and business travel.
+
+● January, May, and June see low demand due to post-holiday slowdown and harsh weather conditions.
+
+# Total Trip by Day-type.
+
+![top bottom trips](https://github.com/user-attachments/assets/39134b33-3eca-4bf0-a961-f05800609739)
+
+● WeekDay has more Trips than WeekEnd.
+
+● Tourism driven cities has higher Weekend trip demand than Weekday
+
+● Business driven cities has higher Weekday trip demand than of Weekend
+
 # Revenue and Monthly Revenue Growth Rate.
 
 ![top bottom trips](https://github.com/user-attachments/assets/c1089e49-bca4-42c1-8add-14b856e710c7)
@@ -85,4 +105,12 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Revenue by Repeat passengers has seen a constant growth till May but declined in June whereas revenue by New passengers has seen declined in revenue from February.
 
+# Passenger Analysis by Cities
 
+![top bottom trips](https://github.com/user-attachments/assets/d0f6fab2-c425-48b5-89ad-426f78fa044d)
+
+● Jaipur, Lucknow and Indore are Top 3 cities with Highest Repeat Passenger Rate.
+
+● Chandigarh, Jaipur and Mysore are the Bottom 3 cities with Highest Repeat Passenger Rate. 
+
+● Jaipur, Kochi and Chandigarh has the highest New Passengers whereas Surat, Vadodara and Coimbatore has lowest New Passengers. 
