@@ -135,3 +135,14 @@ The primary objective of this project is to provide a comprehensive operational 
 
 ● Jaipur and Mysore are the only cities to consistently achieve their trip targets from January 2024 to June 2024, while Lucknow and Vadodara failed to meet their trip targets throughout this period.
 
+# Recommendations
+
+● Optimize Pricing for Tourism cities and Business hubs to maximize revenue and boost customer retention.
+
+● Boost Repeat Passenger Rate by Introducing loyalty programs such as free rides, cashbacks after set number of trips and offer monthly or quaterly subscription.
+
+● Focus on New Passenger Accoquisition by marketing campaigns and collaborating with local business such as Hotels, Malls, Event Organizers etc and provide referal bonuses to attract new passengers. 
+
+● Create city specific strategies by creating tour packages and increasing fleet availability for tourism cities and developing corporate rides plans for Business hubs.
+
+● Establish a feedback system to address passengers concerns and boost satisfaction.
